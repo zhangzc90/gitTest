@@ -1,2 +1,6 @@
 abs
+
 这里是branch1的测试文件
+
+这是newbug 分支里面修复的一个bug
+
